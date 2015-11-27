@@ -1,0 +1,29 @@
+Rahul Patel 
+rpate3 
+pa5
+
+List.c 
+A double linked list which contains many different functions used for manipulation and moving through the list. 
+
+List.h 
+The header file associated with List.c which contains public functions accessible to the main program. 
+
+Graph.c 
+A graph data structure that uses DFS algorithm and the list. 
+
+Graph.h
+The header file associated with Graph.c. 
+
+GraphTest.c 
+This file used to test the functionality Graph.c. 
+
+FindComponents.c
+This is the main program that reads in lines from a file, stores the lines in a matrix and then prints out the adjacency list form of the graph along with the strongly connected components. 
+
+Makefile 
+Compiles all the files together and creates an executable. 
+
+README
+Lists all the files submitted, with a biref description of its role in the project. 
+
+ 

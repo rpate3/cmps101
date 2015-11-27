@@ -1,0 +1,21 @@
+Rahul Patel 
+rpate3 
+pa2 
+
+List.c 
+A doubly linked list which contains many different functions used for manipulation and moving through the list. The list is used to store the array indicies from Lex.c. 
+
+List.h
+The header file for List.c, that contains functions that Lex can use. 
+
+ListClient.c 
+Test file provided to test the List. 
+
+Lex.c 
+This is the main program which takes in two arguments one with an input file and one as an output file. The program reads in the file and sorts the items in the file lexicographically. After it prints out the items in alphabetical order in the out file. 
+
+Makefile
+Builds the executble file Lex. 
+
+README
+List all the files submitted, with a brief description of its role in the project. 

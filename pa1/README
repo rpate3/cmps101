@@ -1,0 +1,9 @@
+Rahul Patel
+rpate3
+pa1
+
+List.java: Doubly-linked list which contains many functions and procedures. 
+ListClient.java: Given example, used to test functions of List.java
+Lex.java: Main program that implements the list and imports a text file, which is then sorted lexicographically. 
+Makefile: Used to complie the program. 
+README: lists all the files and their functions

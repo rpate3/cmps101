@@ -1,0 +1,25 @@
+Rahul Patel 
+rpate3 
+pa3 
+
+List.java
+A doubly linked list which contains many different dunctions used for manipulation and moving through the list. The List is used to enter (entry) objects that are components of the matrix. 
+
+ListTest.java 
+This is a file used to test the functionality of List.java. 
+
+Matrix.java
+This is the heart of the program where the manipulation of the matrix is kept. It uses a private entry classes to perform functions of the matricies. 
+
+MatrixTest.java
+This is a file used to test the fucntionality of Matrix.java
+
+Sparse.java
+The java program that runs all the code together. It prints out the manipulated matricies from Matrix.java. Furthermore, it reads in the file and produced the output file.
+
+Makefile
+A file that is used to compile all the java programs faster. 
+
+README
+Lists all the files submitted, with a biref description of its role in the project. 
+
